@@ -1,106 +1,68 @@
-# 👋 Hi, I'm Varun Sanjay
+<h1 align="center">Hi 👋, I'm Varun Sanjay</h1>
+<h3 align="center">🚀 Software Developer | 📊 Data Analyst | 💡 Problem Solver</h3>
 
-💻 Passionate Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver
-
----
-
-## 🌟 About Me
-
-* 🎓 Student exploring **Full Stack Development & Data Analytics**
-* 💡 Interested in building **real-world impactful applications**
-* 🔗 Currently working on projects using **React, Node.js, MongoDB, MySQL**
-* ⚡ Love learning new technologies and improving problem-solving skills
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Node+%7C+MongoDB;Data+Analytics+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
-
-### 👨‍💻 Languages
-
-* Java
-* JavaScript
-* SQL
-
-### 🌐 Frontend
-
-* HTML
-* CSS
-* React.js
-
-### 🔧 Backend
-
-* Node.js
-* Express.js
-
-### 🗄️ Database
-
-* MongoDB
-* MySQL
-
-### 🛠️ Tools
-
-* Git & GitHub
-* VS Code
-* MongoDB Compass
+## 🌟 About Me  
+- 🎓 Student exploring **Full Stack Development & Data Analytics**  
+- 💡 Building real-world impactful applications  
+- 🔧 Working with **React, Node.js, MongoDB, MySQL**  
+- ⚡ Constantly improving problem-solving skills  
 
 ---
 
-## 📌 Projects
+## 🚀 Tech Stack  
 
-### 🖨️ PrintHub – Student Print Management System
-
-* Built a web app where students can upload PDFs and select print options
-* Features: Login, file upload, print customization (copies, color, binding)
-* Tech Used: React, Node.js, Express, MongoDB
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,html,css,git,vscode" />
+</p>
 
 ---
 
-### 🛒 Student-to-Student Market
+## 📊 GitHub Stats  
 
-* Platform for students to buy/sell projects and products
-* Includes authentication using student email
-* Tech Used: React, MongoDB, JavaScript
-
----
-
-### 🌱 Medicinal Plants App (Flutter)
-
-* App to explore medicinal plants like Tulsi, Neem, Aloe Vera
-* Integrated API and 3D model visualization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varunsanjay123&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsanjay123&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 Currently Learning
+## 📈 Contribution Graph  
 
-* Advanced React
-* Backend Optimization
-* Data Analytics with Power BI
-
----
-
-## 🎯 Goals
-
-* Become a **Full Stack Developer**
-* Build scalable and impactful applications
-* Contribute to open-source projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsanjay123&theme=tokyo-night" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📌 Featured Projects  
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: your-linkedin-link
-* 🌐 Portfolio: your-portfolio-link
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real-world applications and continuously improving my skills 🚀
+- 🖨️ **PrintHub** – Student print management system  
+- 🛒 **Student Market** – Buy/sell platform for students  
+- 🌱 **Medicinal Plants App** – Flutter + 3D models  
 
 ---
 
-### ⭐ “Code. Learn. Build. Repeat.”
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
+## ⚡ Fun Fact  
+💡 I turn ideas into real-world applications and keep leveling up 🚀  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varunsanjay123&label=Profile%20Views&color=blue&style=flat" />
+</p>
