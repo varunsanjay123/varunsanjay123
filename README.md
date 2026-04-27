@@ -23,21 +23,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varunsanjay123&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunsanjay123&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunsanjay123&theme=tokyo-night" />
-</p>
-
 ---
 
 ## 📌 Featured Projects  
